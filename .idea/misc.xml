@@ -1,0 +1,112 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable-v24/bg_button.xml" value="0.24027777777777778" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable-v24/bg_momo.xml" value="0.24027777777777778" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable-v24/btn_gradient.xml" value="0.24027777777777778" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable-v24/chat_admin_messe.xml" value="0.236986301369863" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable-v24/ic_baseline_add_location_24.xml" value="0.236986301369863" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable-v24/ic_baseline_vpn_key_24.xml" value="0.236986301369863" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable-v24/ic_cart_main.xml" value="0.24027777777777778" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable-v24/ic_cloud_24.xml" value="0.236986301369863" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable-v24/ic_email.xml" value="0.24027777777777778" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable-v24/ic_person_24.xml" value="0.24027777777777778" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable-v24/round_bg.xml" value="0.24027777777777778" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable-v24/spinner_color.xml" value="0.236986301369863" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable/background_color.xml" value="0.264" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable/background_main_blue.xml" value="0.2703125" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable/background_main_form.xml" value="0.2703125" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable/bg_chat.xml" value="0.236986301369863" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable/bg_gradient.xml" value="0.264" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable/border_color.xml" value="0.536" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable/btn_gradient.xml" value="0.24027777777777778" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable/chat_user_messe.xml" value="0.236986301369863" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable/ic_address_24.xml" value="0.24027777777777778" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.24027777777777778" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable/ic_baseline_logout_24.xml" value="0.24027777777777778" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.24027777777777778" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable/ic_baseline_message_24.xml" value="0.236986301369863" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable/ic_baseline_question_answer_24.xml" value="0.22407407407407406" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable/ic_cart_24.xml" value="0.24027777777777778" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable/ic_home_24.xml" value="0.1" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable/ic_media_24.xml" value="0.2703125" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable/ic_new_24.xml" value="0.2703125" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable/ic_search_24.xml" value="0.2703125" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable/ic_settings_24.xml" value="0.2703125" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable/item_selected_color.xml" value="0.2703125" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable/item_unsected_color.xml" value="0.2703125" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable/item_unselected_color.xml" value="0.2703125" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable/list_selector_color.xml" value="0.176" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable/round_bg.xml" value="0.24027777777777778" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/drawable/spinner.xml" value="0.2703125" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_account.xml" value="0.2" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_account_setting.xml" value="0.264" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_cart.xml" value="0.264" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_cart_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_category.xml" value="0.2151268115942029" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_category_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_chat_user.xml" value="0.2" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_check_out.xml" value="0.2" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_detail.xml" value="0.4" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_edit_account.xml" value="0.264" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_forgot_pass.xml" value="0.264" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_headphone.xml" value="0.2567191844300278" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_headphone2.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_help.xml" value="0.4" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_home_fragment.xml" value="0.190625" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_laptop.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_location.xml" value="0.4" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_phone.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_purchase_order.xml" value="0.22592592592592592" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_sale_code.xml" value="0.22192028985507245" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_search.xml" value="0.4" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_setting.xml" value="0.264" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_setting_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_splash_seen.xml" value="0.2" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/activity_tablet.xml" value="0.12360688956433637" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/fragment__category.xml" value="0.24864130434782608" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/fragment__setting.xml" value="0.24864130434782608" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/fragment_blank.xml" value="0.23278985507246377" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/fragment_cart.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/fragment_category.xml" value="0.2" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/fragment_first.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/fragment_maps.xml" value="0.264" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/fragment_setting.xml" value="0.25416666666666665" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/item_cart.xml" value="0.264" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/item_chat_text.xml" value="0.21240942028985507" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/item_check_out.xml" value="0.2" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/item_color.xml" value="0.264" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/item_detail_purchase.xml" value="0.264" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/item_details.xml" value="0.4" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/item_dropdown_spinner.xml" value="0.21875" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/item_edit_user.xml" value="0.536" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/item_loading.xml" value="0.264" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/item_menu_nav.xml" value="0.264" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/item_notification.xml" value="0.1" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/item_order.xml" value="0.4" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/item_phone.xml" value="0.72" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/item_product_new.xml" value="0.264" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/item_received_chat.xml" value="0.536" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/item_sale.xml" value="0.534621578099839" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/item_send_chatting.xml" value="0.2" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/item_spinner.xml" value="0.21875" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/navigation_menu.xml" value="0.2" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/layout/test.xml" value="0.2" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/menu/bottom_navigation.xml" value="0.17037037037037037" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/menu/menu.xml" value="0.22592592592592592" />
+        <entry key="..\:/AppStorePhone/app/src/main/res/menu/navigation_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

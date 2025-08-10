@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_gradient"
+    android:orientation="vertical"
+    tools:context=".Fragment.Fragment_Account">
+
+    <LinearLayout
+        android:id="@+id/layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar_account"
+            app:title="Account"
+            android:titleTextColor="#000000"
+            app:layout_constraintTop_toTopOf="parent"
+            android:background="@color/background_color"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"/>
+
+
+    </LinearLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        app:layout_constraintTop_toBottomOf="@id/layout"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <androidx.appcompat.widget.AppCompatButton
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:id="@+id/btn_Purchase_order"
+                android:background="@drawable/bg_button"
+                android:drawableLeft="@drawable/donmua_48px"
+                android:drawableRight="@drawable/chevron_right_40px"
+                android:text="Purchase Order"
+                android:textColor="#000"
+                android:textSize="15dp">
+            </androidx.appcompat.widget.AppCompatButton>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btn_wallet"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:background="@drawable/bg_gradient"
+                android:drawableLeft="@drawable/new_ticket_48px"
+                android:drawableRight="@drawable/chevron_right_40px"
+                android:text="Wallet Voucher"
+                android:textColor="#000"
+                android:textSize="15dp">
+
+            </androidx.appcompat.widget.AppCompatButton>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btn_account_setting"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:background="@drawable/bg_button"
+                android:drawableLeft="@drawable/account"
+                android:drawableRight="@drawable/chevron_right_40px"
+                android:text="Account Settings"
+                android:textSize="15dp">
+
+            </androidx.appcompat.widget.AppCompatButton>
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btn_help_center"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:background="@drawable/bg_gradient"
+                android:drawableLeft="@drawable/help_48px"
+                android:drawableRight="@drawable/chevron_right_40px"
+                android:text="Help Center"
+                android:textSize="15dp">
+            </androidx.appcompat.widget.AppCompatButton>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+                <androidx.appcompat.widget.AppCompatButton
+                    android:id="@+id/btn_logout"
+                    android:layout_width="match_parent"
+                    android:layout_height="68dp"
+                    android:background="@drawable/bg_button"
+                    android:drawableLeft="@drawable/ic_baseline_logout_24"
+                    android:drawableRight="@drawable/chevron_right_40px"
+                    android:text="Log out"
+                    android:textSize="15dp">
+                </androidx.appcompat.widget.AppCompatButton>
+
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

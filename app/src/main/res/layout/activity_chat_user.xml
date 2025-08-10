@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    tools:context=".Chatting.Message_user_Activity">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_message"
+        app:title=" Admin"
+        android:theme="?attr/actionBarTheme"
+        app:titleTextColor="@color/black"
+        android:background="@drawable/bg_gradient"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        tools:ignore="MissingConstraints" />
+    <LinearLayout
+        android:layout_marginRight="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginBottom="8dp"
+        android:padding="16dp"
+        android:id="@+id/line1"
+        android:weightSum="10"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <EditText
+            android:layout_weight="8"
+            android:id="@+id/edt_chat_text"
+            android:paddingTop="6dp"
+            android:paddingLeft="16dp"
+            android:background="@drawable/bg_chat"
+            android:hint="content chatting"
+            android:layout_width="0dp"
+            android:layout_height="40dp"/>
+        <ImageView
+            android:src="@drawable/ic_baseline_send_24"
+            android:id="@+id/img_chat"
+            android:layout_gravity="center"
+            android:layout_weight="2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerview_chat"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="16dp"
+        app:layout_constraintBottom_toTopOf="@id/line1"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar_message"
+        tools:layout_editor_absoluteX="16dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

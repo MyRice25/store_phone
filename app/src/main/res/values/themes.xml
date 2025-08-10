@@ -1,0 +1,37 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.AppStorePhone" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <!-- Chọn màu sắc chon sản phẩm -->
+    <style name="CustomChipStyle_yellow" parent="Widget.MaterialComponents.Chip.Filter">
+        <item name="chipBackgroundColor">@color/chip_background_yellow</item>
+        <item name="android:textColor">@color/chip_text_color</item>
+        <item name="checkedIconTint">#101010</item>
+        <item name="rippleColor">@color/colorAlpha</item>
+    </style>
+    <style name="CustomChipStyle_red" parent="Widget.MaterialComponents.Chip.Filter">
+        <item name="chipBackgroundColor">@color/chip_background_red</item>
+        <item name="android:textColor">@color/chip_text_color</item>
+        <item name="checkedIconTint">#101010</item>
+        <item name="rippleColor">@color/colorAlpha</item>
+    </style>
+    <style name="CustomChipStyle_blue" parent="Widget.MaterialComponents.Chip.Filter">
+        <item name="chipBackgroundColor">@color/chip_background_blue</item>
+        <item name="android:textColor">@color/chip_text_color</item>
+        <item name="checkedIconTint">#101010</item>
+        <item name="rippleColor">@color/colorAlpha</item>
+    </style>
+
+</resources>

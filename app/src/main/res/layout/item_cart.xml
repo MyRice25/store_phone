@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:elevation="8dp"
+    app:cardCornerRadius="4dp"
+    android:layout_margin="5dp"
+    android:background="#fff"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:background="#fff"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <CheckBox
+            android:padding="4dp"
+            android:layout_marginLeft="2dp"
+            android:layout_gravity="center"
+            android:id="@+id/item_cart_check"
+            android:layout_width="44dp"
+            android:layout_height="44dp"/>
+        <ImageView
+            android:id="@+id/item_cart_image"
+            android:scaleType="centerCrop"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_media_24"
+            android:layout_width="100dp"
+            android:layout_height="100dp" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:layout_marginLeft="10dp"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:id="@+id/item_cart_name"
+                android:text="Name Product"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_marginTop="6dp"
+                android:layout_weight="8"
+                android:layout_marginLeft="10dp"
+                android:textSize="18sp"
+                android:textColor="#EA1C0C"
+                android:id="@+id/item_cart_price"
+                android:text="15000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+                <LinearLayout
+                    android:weightSum="18"
+                    android:layout_marginTop="6dp"
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <ImageView
+                        android:src="@drawable/ic_baseline_remove_24"
+                        android:id="@+id/item_cart_remove"
+                        android:layout_weight="2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"/>
+
+                    <TextView
+                        android:id="@+id/item_cart_amount"
+                        android:text="1"
+                        android:layout_marginLeft="4dp"
+                        android:gravity="center"
+                        android:layout_weight="2"
+                        android:textColor="#000000"
+                        android:textSize="16sp"
+                        android:textStyle="bold"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                    <ImageView
+                        android:src="@drawable/ic_baseline_add_24"
+                        android:id="@+id/item_cart_add"
+                        android:layout_marginLeft="4dp"
+                        android:layout_weight="2"
+                        android:layout_width="22dp"
+                        android:layout_height="wrap_content"/>
+                </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
